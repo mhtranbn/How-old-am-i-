@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>74D2CEA3-343E-4ACD-9396-8E2614AD1CA5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>How old am i</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>576DF4361FAB6FD9E38F5BECC4B45C9550CB7DA4</key>
+		<string>https://github.com/mhtranbn/how-old.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>How old am i.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>576DF4361FAB6FD9E38F5BECC4B45C9550CB7DA4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mhtranbn/how-old.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>576DF4361FAB6FD9E38F5BECC4B45C9550CB7DA4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>576DF4361FAB6FD9E38F5BECC4B45C9550CB7DA4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>How%20old%20am%20i</string>
+		</dict>
+	</array>
+</dict>
+</plist>
